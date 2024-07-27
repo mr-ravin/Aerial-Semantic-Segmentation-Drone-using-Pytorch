@@ -47,6 +47,9 @@ Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Dr
 |        3         | 15, 16, 17, 18                       |    [255,20,147]     | moving              |
 |        4         | 1, 4, 9                              |    [169,169,169]    | landable            |
 
+### Visualise a sample from the dataset
+
+![image](https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch/blob/main/results/view_dataset.jpg?raw=true)
 
 ## Directory Structure
 ```
@@ -66,6 +69,7 @@ Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Dr
 |-- run.ipynb
 |-- weights/       # it will contain the weight file after model training.
 |-- results/
+       |-- view_dataset.jpg
        |-- inference_results.jpg
        |-- overall_analysis.jpg
 
