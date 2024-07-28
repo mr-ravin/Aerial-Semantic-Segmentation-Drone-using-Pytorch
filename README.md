@@ -80,7 +80,7 @@ Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Dr
 - Run the jupyter notebook: `run.ipynb`
 
 ### Model Performance
-We have trained the model upto 11 epochs and have shared the performance matrices and some sample results below.
+We have trained the model upto 24 epochs and have shared the performance matrices and some sample results below.
 
 ![image](https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch/blob/main/results/overall_analysis.png?raw=true)
 
