@@ -65,6 +65,8 @@ Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Dr
 |    |-- compute.py
 |    |-- grephics.py
 |
+|-- train_files.txt
+|-- valid_files.txt
 |-- dataloader.py
 |-- run.ipynb
 |-- weights/       # it will contain the weight file after model training.
@@ -74,6 +76,8 @@ Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Dr
        |-- overall_analysis.jpg
 
 ```
+
+Information regarding the images present in our train set is present inside `train_files.txt`and image information for validation set is present inside `valid_files.txt`. It's provided so that one can reproduce the results.
 
 ### Steps to Train the model
 - Download the dataset and place its images and masks inside `dataset/images/` and `dataset/masks/` respectively.
