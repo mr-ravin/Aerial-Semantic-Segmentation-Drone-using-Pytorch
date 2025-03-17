@@ -1,8 +1,11 @@
 # Aerial-Semantic-Segmentation-Drone-using-Pytorch
 Aerial Semantic Segmentation of Drone  Captured Images, using Pytorch.
 
-Project Repository: [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch](https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch)
-
+### 🔧 Development Details
+- **👨‍💻 Developer:** [Ravin Kumar](https://mr-ravin.github.io)
+- **📂 GitHub Repository:** [https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch](https://github.com/mr-ravin/Aerial-Semantic-Segmentation-Drone-using-Pytorch)
+  
+----
 ### Dataset Related Information
 
 - Aerial Image Dataset: https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset
